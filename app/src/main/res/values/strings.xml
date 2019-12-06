@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NfcCardReaderDemo</string>
+    <string name="card_number">Card Number: %s</string>
+    <string name="expiry_date">Expiry date: %s</string>
+    <string name="make_sure_your_nfc_is_enabled_in_the_phone_settings">* Make sure your NFC is enabled in the phone
+        settings
+    </string>
+</resources>
